@@ -5,9 +5,7 @@
 <h4> 💼 Do you have a job offer? send an <a href="mailto:aawifoa@gmail.com">E-mail</a></h4></ul>
 <Strong>Languages and Tools:</Strong>
 </br>
-
-
-
+</br>
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/47529454/122483286-e95df080-cfda-11eb-9471-284a5fb3d8ee.png"><img height="30" src="https://user-images.githubusercontent.com/47529454/122483286-e95df080-cfda-11eb-9471-284a5fb3d8ee.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/47529454/122483398-23c78d80-cfdb-11eb-8407-ee38c4c14265.png"><img height="30" src="https://user-images.githubusercontent.com/47529454/122483398-23c78d80-cfdb-11eb-8407-ee38c4c14265.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/47529454/122484388-2c20c800-cfdd-11eb-9e5d-134b01e4f249.png"><img height="30" src="https://user-images.githubusercontent.com/47529454/122484388-2c20c800-cfdd-11eb-9e5d-134b01e4f249.png" style="max-width:100%;"></a>
