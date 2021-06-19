@@ -35,4 +35,4 @@
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/47529454/122530548-4089b280-d027-11eb-9def-1316cf356114.png"><img height="30" src="https://user-images.githubusercontent.com/47529454/122530548-4089b280-d027-11eb-9def-1316cf356114.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/47529454/122530526-3962a480-d027-11eb-9b4c-c1c6e19ebd66.jpg"><img height="30" src="https://user-images.githubusercontent.com/47529454/122530526-3962a480-d027-11eb-9b4c-c1c6e19ebd66.jpg" style="max-width:100%;"></a>
 
-
+[![Strfr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Strfr)](https://github.com/Strfr/github-readme-stats)
