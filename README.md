@@ -39,5 +39,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Strfr&count_private=true&show_icons=true&theme=tokyonight" style="max-width:100%;">
   </a>
  <a href="https://github.com/Strfr">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strfr&layout=compact&show_icons=true&theme=tokyonight&hide=C,Makefile,Assembly" style="max-width:100%;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strfr&layout=compact&show_icons=true&theme=tokyonight&hide=C,HTML,JavaScript,Makefile,Assembly" style="max-width:100%;">
   </a>
