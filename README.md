@@ -36,8 +36,8 @@
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/47529454/122530526-3962a480-d027-11eb-9b4c-c1c6e19ebd66.jpg"><img height="30" src="https://user-images.githubusercontent.com/47529454/122530526-3962a480-d027-11eb-9b4c-c1c6e19ebd66.jpg" style="max-width:100%;"></a>
 </br></br>
 <a href="https://github.com/Strfr">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Strfr&count_private=true&show_icons=true&theme=tokyonight" style="max-width:100%;">
+    <img align="center" src="https://github-readme-stats-git-master-strfr.vercel.app/api?username=Strfr&count_private=true&show_icons=true&theme=tokyonight" style="max-width:100%;">
   </a>
  <a href="https://github.com/Strfr">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strfr&layout=compact&show_icons=true&theme=tokyonight&hide=C,HTML,JavaScript,Makefile,Assembly" style="max-width:100%;">
+    <img align="center" src="https://github-readme-stats-git-master-strfr.vercel.app/api/top-langs/?username=Strfr&layout=compact&show_icons=true&theme=tokyonight&hide=C,HTML,JavaScript,Makefile,Assembly" style="max-width:100%;">
   </a>
